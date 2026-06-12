@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+.faiss
+*.faiss
+
+.ipynb_checkpoints/
+
+.cache/
+
+.idea/
+.vscode/
