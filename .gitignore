@@ -17,3 +17,6 @@ __pycache__/
 vector_store/
 *.faiss
 *.pkl
+
+*.pdf
+*.docx
